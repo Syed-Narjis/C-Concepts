@@ -1,0 +1,15 @@
+C:\Users\Syed\source\repos\Inteface\bin\Debug\net6.0\Inteface.exe
+C:\Users\Syed\source\repos\Inteface\bin\Debug\net6.0\Inteface.deps.json
+C:\Users\Syed\source\repos\Inteface\bin\Debug\net6.0\Inteface.runtimeconfig.json
+C:\Users\Syed\source\repos\Inteface\bin\Debug\net6.0\Inteface.dll
+C:\Users\Syed\source\repos\Inteface\bin\Debug\net6.0\Inteface.pdb
+C:\Users\Syed\source\repos\Inteface\obj\Debug\net6.0\Inteface.csproj.AssemblyReference.cache
+C:\Users\Syed\source\repos\Inteface\obj\Debug\net6.0\Inteface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Syed\source\repos\Inteface\obj\Debug\net6.0\Inteface.AssemblyInfoInputs.cache
+C:\Users\Syed\source\repos\Inteface\obj\Debug\net6.0\Inteface.AssemblyInfo.cs
+C:\Users\Syed\source\repos\Inteface\obj\Debug\net6.0\Inteface.csproj.CoreCompileInputs.cache
+C:\Users\Syed\source\repos\Inteface\obj\Debug\net6.0\Inteface.dll
+C:\Users\Syed\source\repos\Inteface\obj\Debug\net6.0\refint\Inteface.dll
+C:\Users\Syed\source\repos\Inteface\obj\Debug\net6.0\Inteface.pdb
+C:\Users\Syed\source\repos\Inteface\obj\Debug\net6.0\Inteface.genruntimeconfig.cache
+C:\Users\Syed\source\repos\Inteface\obj\Debug\net6.0\ref\Inteface.dll
