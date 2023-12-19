@@ -1,0 +1,15 @@
+C:\Users\Syed\source\repos\Inheritance\bin\Debug\net6.0\Inheritance.exe
+C:\Users\Syed\source\repos\Inheritance\bin\Debug\net6.0\Inheritance.deps.json
+C:\Users\Syed\source\repos\Inheritance\bin\Debug\net6.0\Inheritance.runtimeconfig.json
+C:\Users\Syed\source\repos\Inheritance\bin\Debug\net6.0\Inheritance.dll
+C:\Users\Syed\source\repos\Inheritance\bin\Debug\net6.0\Inheritance.pdb
+C:\Users\Syed\source\repos\Inheritance\obj\Debug\net6.0\Inheritance.csproj.AssemblyReference.cache
+C:\Users\Syed\source\repos\Inheritance\obj\Debug\net6.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Syed\source\repos\Inheritance\obj\Debug\net6.0\Inheritance.AssemblyInfoInputs.cache
+C:\Users\Syed\source\repos\Inheritance\obj\Debug\net6.0\Inheritance.AssemblyInfo.cs
+C:\Users\Syed\source\repos\Inheritance\obj\Debug\net6.0\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Syed\source\repos\Inheritance\obj\Debug\net6.0\Inheritance.dll
+C:\Users\Syed\source\repos\Inheritance\obj\Debug\net6.0\refint\Inheritance.dll
+C:\Users\Syed\source\repos\Inheritance\obj\Debug\net6.0\Inheritance.pdb
+C:\Users\Syed\source\repos\Inheritance\obj\Debug\net6.0\Inheritance.genruntimeconfig.cache
+C:\Users\Syed\source\repos\Inheritance\obj\Debug\net6.0\ref\Inheritance.dll
